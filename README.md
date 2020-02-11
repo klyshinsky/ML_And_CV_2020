@@ -11,6 +11,8 @@
 
 [Лекция 1_4](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lectire_20200204_image_processing.ipynb) - вводная лекция по обработке изображений.
 
+[Лекция 1_5](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200211_clustering.ipynb) - лекция по кластеризации.
+
 [Методичка](https://docs.google.com/document/d/1Y4yy1Fx5JuLLudJqoeMXH7l3GWclM3PmBC4prYjqD7g/edit?usp=sharing) с заданием на первую лабораторную работу
 
 
