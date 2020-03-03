@@ -13,6 +13,8 @@
 
 [Лекция 1_5](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200211_clustering.ipynb) - лекция по кластеризации.
 
+[Лекция 1_6](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture20200303_Classification.ipynb) - лекция по классификации (спасибо Ермакову П. и Шестакову А.).
+
 [Методичка](https://docs.google.com/document/d/1Y4yy1Fx5JuLLudJqoeMXH7l3GWclM3PmBC4prYjqD7g/edit?usp=sharing) с заданием на первую лабораторную работу
 
 
