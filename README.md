@@ -19,6 +19,8 @@
 
 [Лекция 2_3](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200414_Reduce_space.ipynb) - Лекция по методам снижения размерности пространства признаков.
 
+[Лекция 2_4](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture20200421-W2V.ipynb) - Лекция по Word2Vec.
+
 [Методичка](https://docs.google.com/document/d/1Y4yy1Fx5JuLLudJqoeMXH7l3GWclM3PmBC4prYjqD7g/edit?usp=sharing) с заданием на первую лабораторную работу
 
 
