@@ -15,12 +15,14 @@
 
 [Лекция 1_6](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture20200303_Classification.ipynb) - лекция по классификации (спасибо Ермакову П. и Шестакову А.).
 
-[Лекция 2_1, 2_2](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200331_text_processing.ipynb) - лекция по азам обработки текстов (морфология, векторизация, TF*IDF)
+[Лекция 2_1, 2_2](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200331_text_processing.ipynb) - лекция по азам обработки текстов (морфология, векторизация, TF*IDF).
 
 [Лекция 2_3](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200414_Reduce_space.ipynb) - Лекция по методам снижения размерности пространства признаков.
 
 [Лекция 2_4](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture20200421-W2V.ipynb) - Лекция по Word2Vec.
 
-[Методичка](https://docs.google.com/document/d/1Y4yy1Fx5JuLLudJqoeMXH7l3GWclM3PmBC4prYjqD7g/edit?usp=sharing) с заданием на первую лабораторную работу
+[Лекция 2_5](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200512_Natural_Neuron_Networks.ipynb) - Лекция по модели нейронов головного мозга (лекция по искусственным нейронам читается с рисунками на доске).
+
+[Методичка](https://docs.google.com/document/d/1Y4yy1Fx5JuLLudJqoeMXH7l3GWclM3PmBC4prYjqD7g/edit?usp=sharing) с заданием на лабораторные работы.
 
 
