@@ -23,6 +23,8 @@
 
 [Лекция 2_5](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200512_Natural_Neuron_Networks.ipynb) - Лекция по модели нейронов головного мозга (лекция по искусственным нейронам читается с рисунками на доске).
 
+[Лекция 2_7](https://github.com/klyshinsky/ML_And_CV_2020/blob/master/Lecture_20200526_Neural_Networks_Dense_CNN_RNN.ipynb) - Практические материалы по нейронным сетям (библиотеки sklearn и Keras).
+
 [Методичка](https://docs.google.com/document/d/1Y4yy1Fx5JuLLudJqoeMXH7l3GWclM3PmBC4prYjqD7g/edit?usp=sharing) с заданием на лабораторные работы.
 
 
